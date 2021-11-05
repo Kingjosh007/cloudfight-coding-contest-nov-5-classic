@@ -1,0 +1,1 @@
+# cloudfight-coding-contest-nov-5-classic
