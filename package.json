@@ -1,0 +1,20 @@
+{
+  "name": "cloudfight-coding-contest-nov-5-classic",
+  "version": "1.0.0",
+  "description": "On November 5th, 2021, I took part into an online coding contest called **Cloudfight Coding Contest (CCC)**.\r This contest is a **classic** contest, where you have to write a program to solve a multi-level problem.\r This repo was created for that purpose.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kingjosh007/cloudfight-coding-contest-nov-5-classic.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kingjosh007/cloudfight-coding-contest-nov-5-classic/issues"
+  },
+  "homepage": "https://github.com/Kingjosh007/cloudfight-coding-contest-nov-5-classic#readme"
+}
